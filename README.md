@@ -100,8 +100,8 @@ This project is a web-based dashboard that integrates with Google Sheets to disp
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/vasa-r/revoeai-assignment.git
-cd revoeai-assignment
+git clone https://github.com/sainathkamble/revoeaiassignment.git
+cd revoeaiassignment
 ```
 
 ### **2. Setup Backend**
